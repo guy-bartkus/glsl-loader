@@ -1,0 +1,25 @@
+{
+  "name": "@bartkus/glsl-loader",
+  "version": "1.0.0",
+  "description": "Webpack GLSL loader allows you to import glsl files as raw text for WebGL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guy-bartkus/glsl-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "glsl"
+  ],
+  "author": "Guy Bartkus",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/guy-bartkus/glsl-loader/issues"
+  },
+  "homepage": "https://github.com/guy-bartkus/glsl-loader#readme",
+  "typings": "glsl-loader.d.ts"
+}
