@@ -1,6 +1,6 @@
 {
   "name": "@bartkus/glsl-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Webpack GLSL loader allows you to import glsl files as raw text for WebGL",
   "main": "index.js",
   "scripts": {
